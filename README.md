@@ -16,7 +16,7 @@ This repository contains multiple UiPath projects, each stored in a separate bra
    - Description: Automates data entry into a web form. Actually it is an automation challenge which is hosted on theautomationchallenge.com the curcial thing about this challenge was that web page has a dynamic user interface which will change in each time you sumbmit a record of data and I had to use different technichques to help the bot recognize where exactly the text box is.
 
 3. **Porject 4 : Real estate data Scraping**
-  - Branch: https://github.com/bouslamaft/RPA_UiPath/tree/Robot4_RealEstateDataScraping
-  - Description: It prompts the user for a city name then to opens the zillow.com real estate webstie then scrap the data of real estates then store it within excel file. 
+   - Branch: https://github.com/bouslamaft/RPA_UiPath/tree/Robot4_RealEstateDataScraping
+   - Description: It prompts the user for a city name then to opens the zillow.com real estate webstie then scrap the data of real estates then store it within excel file. 
 
 Feel free to explore the branches to see the details of each project.
